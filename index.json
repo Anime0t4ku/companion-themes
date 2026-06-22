@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "themes": [
+    {
+      "id": "demon_cloak",
+      "name": "Demon Cloak",
+      "author": "Anime0t4ku",
+      "category": "official",
+      "theme_url": "https://raw.githubusercontent.com/Anime0t4ku/companion-themes/main/official-themes/demon_cloak.json",
+      "preview_url": "https://raw.githubusercontent.com/Anime0t4ku/companion-themes/main/official-themes/demon_cloak.png"
+    },
+    {
+      "id": "namekian_royalty",
+      "name": "Namekian Royalty",
+      "author": "Anime0t4ku",
+      "category": "official",
+      "theme_url": "https://raw.githubusercontent.com/Anime0t4ku/companion-themes/main/official-themes/namekian_royalty.json",
+      "preview_url": "https://raw.githubusercontent.com/Anime0t4ku/companion-themes/main/official-themes/namekian_royalty.png"
+    },
+    {
+      "id": "paper_shadow",
+      "name": "Paper Shadow",
+      "author": "Anime0t4ku",
+      "category": "official",
+      "theme_url": "https://raw.githubusercontent.com/Anime0t4ku/companion-themes/main/official-themes/paper_shadow.json",
+      "preview_url": "https://raw.githubusercontent.com/Anime0t4ku/companion-themes/main/official-themes/paper_shadow.png"
+    },
+    {
+      "id": "prince_armor",
+      "name": "Prince Armor",
+      "author": "Anime0t4ku",
+      "category": "official",
+      "theme_url": "https://raw.githubusercontent.com/Anime0t4ku/companion-themes/main/official-themes/prince_armor.json",
+      "preview_url": "https://raw.githubusercontent.com/Anime0t4ku/companion-themes/main/official-themes/prince_armor.png"
+    },
+    {
+      "id": "saiyan_sunburst",
+      "name": "Saiyan Sunburst",
+      "author": "Anime0t4ku",
+      "category": "official",
+      "theme_url": "https://raw.githubusercontent.com/Anime0t4ku/companion-themes/main/official-themes/saiyan_sunburst.json",
+      "preview_url": "https://raw.githubusercontent.com/Anime0t4ku/companion-themes/main/official-themes/saiyan_sunburst.png"
+    },
+    {
+      "id": "wing_zero_protocol",
+      "name": "Wing Zero Protocol",
+      "author": "Anime0t4ku",
+      "category": "official",
+      "theme_url": "https://raw.githubusercontent.com/Anime0t4ku/companion-themes/main/official-themes/wing_zero_protocol.json",
+      "preview_url": "https://raw.githubusercontent.com/Anime0t4ku/companion-themes/main/official-themes/wing_zero_protocol.png"
+    }
+  ]
+}
