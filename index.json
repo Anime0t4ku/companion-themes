@@ -2,6 +2,15 @@
   "version": 1,
   "themes": [
     {
+      "id": "icy_snowflake",
+      "name": "Icy Snowflake",
+      "author": "Phoenix",
+      "category": "community",
+      "date_added": "2026-06-22",
+      "theme_url": "https://raw.githubusercontent.com/Anime0t4ku/companion-themes/main/community-themes/icy_snowflake.json",
+      "preview_url": "https://raw.githubusercontent.com/Anime0t4ku/companion-themes/main/community-themes/icy_snowflake.png"
+    },
+    {
       "id": "demon_cloak",
       "name": "Demon Cloak",
       "author": "Anime0t4ku",
